@@ -31,14 +31,14 @@ module.exports = {
     var data = [
       {
         id: uuidv4(),
-        name: "Admin123",
+        name: "Admin",
         phone: "123456789",
         email: "admin@orenda.com",
         address: "Pekan Baru Riau",
       },
       {
         id: uuidv4(),
-        name: "customer123",
+        name: "customer",
         phone: "987654321",
         email: "customer@orenda.com",
         address: "Bali Badung",
