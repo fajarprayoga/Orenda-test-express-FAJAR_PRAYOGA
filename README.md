@@ -2,7 +2,9 @@
 EXPRESS AND LOGIC TEST
 
 logic tes
+
 cd Logic-test
+
 run node palindrome.js
 
 cretae db name=orenda
@@ -22,8 +24,11 @@ api list
 customer
 field
 name (string)
+
 email (email)
+
 phone (number)
+
 address (text)
 
 
@@ -37,7 +42,9 @@ product
 
 field
 name (string)
+
 unit (string)
+
 price (int)
 
 
@@ -56,7 +63,9 @@ order
 
 field 
 customerId (string)
+
 prouducts (array) id from product
+
 discount: int
 
 localhost:3000/order/ (post)
