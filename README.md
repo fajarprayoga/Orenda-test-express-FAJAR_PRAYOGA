@@ -1,4 +1,7 @@
 # Orenda-test-express-FAJAR_PRAYOGA
+
+For documentation https://docs.google.com/document/d/1-b5j69040dMQrc8TdrvEiwzq8JPMZgbEDgZOhhkGrmY/edit?usp=sharing 
+
 EXPRESS AND LOGIC TEST
 
 logic tes
@@ -14,8 +17,10 @@ cretae db name=orenda
 3. run npm start
 
 access api
-localhost:3000/jwt/get-token/customer123@orenda.com
+localhost:3000/jwt/get-token/customer@orenda.com
 and save token 
+
+
 
 acess api with token
 in header postman you can add authorized = token
