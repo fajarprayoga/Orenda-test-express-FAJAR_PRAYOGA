@@ -70,7 +70,7 @@ discount: int
 
 localhost:3000/order/ (post)
 
-localhost:3000/order/customer/:customerId
+localhost:3000/order/customer/:customerId (get)
 
 
 
